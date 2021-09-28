@@ -1,0 +1,20 @@
+
+.cakehouse {
+    display: inline-block;
+    margin: 35px;
+    box-sizing: border-box;
+    width: 250px;
+    vertical-align: baseline;
+    font-family: 'Courier New', Courier, monospace;
+    }
+
+.cake {
+    text-align: center;
+    margin: 15px;
+    color: maroon;
+    vertical-align: baseline;
+}
+.description {
+    color: dimgrey;
+    font-size: 15px;
+}
